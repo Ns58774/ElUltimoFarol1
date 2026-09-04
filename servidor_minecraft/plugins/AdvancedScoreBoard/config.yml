@@ -1,0 +1,24 @@
+# AdvancedScoreBoard Configuration
+# This plugin uses AI to generate dynamic scoreboards based on player data
+
+# General settings
+update-interval: 20  # ticks between scoreboard updates (1 second = 20 ticks)
+
+# Scoreboard lines (supports placeholders)
+# Available placeholders: %player%, %online%, %ping%, %money% (if Vault/PAPI), etc.
+lines:
+  - "&7Conectados: &a%online%"
+  - "&7Ping: &a%ping%ms"
+  - "&9&lLista de Integrantes:"
+  - "&bLeikerWTF"
+  - "&bFrederick"
+
+# Title of the scoreboard
+title: "&9&lEl Ultimo Farol"
+
+# Enable animations (smooth transitions)
+animations: true
+
+# AI settings (for future expansion)
+ai-enabled: true
+ai-update-frequency: 300  # seconds between AI optimizations

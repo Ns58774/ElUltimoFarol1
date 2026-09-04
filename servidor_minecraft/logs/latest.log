@@ -1,0 +1,223 @@
+[03:33:07] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4+7-1-24.04-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[03:33:07] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-121-main@a2a42c5 (2026-08-29T11:32:25Z) for Minecraft 26.2
+[03:33:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:33:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[03:33:08] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - BedrockSkinRestorer (1.0.0)
+[03:33:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AdvancedScoreBoard (1.0.0), Essentials (2.22.1-dev+23-43cb76a), Geyser-Spigot (2.11.2-SNAPSHOT), Multiverse-Core (5.8.1), SkinsRestorer (15.12.5), ViaBackwards (5.12.0-SNAPSHOT), ViaRewind (4.1.4-SNAPSHOT), ViaVersion (5.12.0-SNAPSHOT), floodgate (2.2.5-SNAPSHOT (b140-8780fa4))
+[03:33:12] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:33:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:33:13] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 702.9ms
+[03:33:15] [ServerMain/INFO]: Loaded 1585 recipes
+[03:33:15] [ServerMain/INFO]: Loaded 1688 advancements
+[03:33:15] [Server thread/INFO]: Starting minecraft server version 26.2
+[03:33:15] [Server thread/INFO]: Loading properties
+[03:33:16] [Server thread/INFO]: This server is running Paper version 26.2-121-main@a2a42c5 (2026-08-29T11:32:25Z) (Implementing API version 26.2.build.121-stable)
+[03:33:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:33:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:33:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:33:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:33:18] [Server thread/INFO]: Default game type: SURVIVAL
+[03:33:18] [Server thread/INFO]: Generating keypair
+[03:33:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:33:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:33:18] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:33:18] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.12.0-SNAPSHOT
+[03:33:18] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[03:33:19] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:33:19] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:33:19] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[03:33:19] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[03:33:20] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:33:20] [Server thread/INFO]: [floodgate] Took 661ms to boot Floodgate
+[03:33:20] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.12.0-SNAPSHOT
+[03:33:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.5
+[03:33:20] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.8.1
+[03:33:20] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.2-SNAPSHOT
+[03:33:20] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:33:20] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:33:20] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.1.4-SNAPSHOT
+[03:33:20] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.1-dev+23-43cb76a
+[03:33:20] [Server thread/INFO]: [BedrockSkinRestorer] Loading server plugin BedrockSkinRestorer v1.0.0
+[03:33:20] [Server thread/INFO]: [AdvancedScoreBoard] Loading server plugin AdvancedScoreBoard v1.0.0
+[03:33:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.5
+[03:33:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.2.0.
+[03:33:21] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[03:33:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:33:21] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.1.4-SNAPSHOT
+[03:33:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:33:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:33:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:33:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:33:21] [Server thread/INFO]: Preparing level "world"
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.5
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 98b9488
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:33:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[03:33:22] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[03:33:22] [Server thread/INFO]: Preparing spawn area: 100%
+[03:33:22] [Server thread/INFO]: Prepared spawn area in 3 ms
+[03:33:22] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[03:33:22] [Server thread/INFO]: Prepared spawn area in 1 ms
+[03:33:22] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[03:33:22] [Server thread/INFO]: Prepared spawn area in 1 ms
+[03:33:22] [Server thread/INFO]: Done preparing level "world" (0.574s)
+[03:33:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.0-SNAPSHOT
+[03:33:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
+[03:33:22] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[03:33:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.0-SNAPSHOT
+[03:33:22] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.8.1
+[03:33:23] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[03:33:23] [Server thread/INFO]: [Multiverse-Core] Version 5.8.1 (API v5.8) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[03:33:23] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[03:33:23] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.2-SNAPSHOT
+[03:33:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.1-dev+23-43cb76a
+[03:33:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:33:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Modern (Registry-based) PatternType Provider as the provider for PatternTypeProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[03:33:25] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[03:33:25] [Server thread/INFO]: [Essentials] Loaded 46861 items from items.json.
+[03:33:25] [Server thread/INFO]: [Essentials] Using locale en
+[03:33:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:33:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:33:25] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[03:33:25] [Server thread/INFO]: [BedrockSkinRestorer] Enabling BedrockSkinRestorer v1.0.0
+[03:33:25] [Server thread/INFO]: [BedrockSkinRestorer] Bedrock skins will be restored for Floodgate players on join.
+[03:33:25] [Server thread/INFO]: [AdvancedScoreBoard] Enabling AdvancedScoreBoard v1.0.0
+[03:33:25] [Server thread/INFO]: [AdvancedScoreBoard] AdvancedScoreBoard enabled!
+[03:33:26] [Server thread/INFO]: [spark] Starting background profiler...
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] 
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.2-b1234 (git-master-9b65a39)
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] 
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:33:27] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[03:33:27] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[03:33:27] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[03:33:29] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[03:33:30] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[03:33:30] [Server thread/INFO]: [Geyser-Spigot] Done (3.966s)! Run /geyser help for help!
+[03:33:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:33:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:33:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:33:30] [Server thread/INFO]: Running delayed init tasks
+[03:33:30] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:33:30] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[03:33:30] [Server thread/INFO]: Done (24.224s)! For help, type "help"
+[03:33:31] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[03:33:34] [User Authenticator #0/INFO]: UUID of player BlanquitoVE is 6bd88168-c638-3de4-9a35-f49dc5bc60cc
+[03:33:36] [Server thread/INFO]: BlanquitoVE joined the game
+[03:33:36] [Server thread/INFO]: BlanquitoVE[/127.143.149.19:54991] logged in with entity id 64 at ([minecraft:overworld]185.91954509585838, 71.0, -41.228808836991625)
+[03:33:44] [Server thread/INFO]: BlanquitoVE issued server command: /gm 1
+[03:33:58] [Server thread/INFO]: BlanquitoVE issued server command: /gm 0
+[03:34:01] [Server thread/INFO]: BlanquitoVE lost connection: Disconnected
+[03:34:01] [Server thread/INFO]: BlanquitoVE left the game
+[03:34:07] [Server thread/INFO]: Stopping the server
+[03:34:07] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:175) ~[paper-26.2.jar:26.2-121-a2a42c5]
+Caused by: java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:201) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:71) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$1.read(AbstractPty.java:58) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:124) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:157) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:56) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[03:34:07] [Server thread/INFO]: Stopping server
+[03:34:07] [Server thread/INFO]: [AdvancedScoreBoard] Disabling AdvancedScoreBoard v1.0.0
+[03:34:07] [Server thread/INFO]: [AdvancedScoreBoard] AdvancedScoreBoard disabled!
+[03:34:07] [Server thread/INFO]: [BedrockSkinRestorer] Disabling BedrockSkinRestorer v1.0.0
+[03:34:07] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.1-dev+23-43cb76a
+[03:34:07] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.1.4-SNAPSHOT
+[03:34:07] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.11.2-SNAPSHOT
+[03:34:07] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:34:07] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:34:07] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.8.1
+[03:34:07] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[03:34:07] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.5
+[03:34:07] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.12.0-SNAPSHOT
+[03:34:07] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[03:34:07] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.12.0-SNAPSHOT
+[03:34:07] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:34:07] [Server thread/INFO]: Saving players
+[03:34:07] [Server thread/INFO]: Saving worlds
+[03:34:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:34:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[03:34:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[03:34:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[03:34:07] [WebSocketConnectReadThread-105/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Saved 1033 block chunks, 706 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 1.73s
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[03:34:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[03:34:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[03:34:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[03:34:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:34:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:34:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:34:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:34:09] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:34:09] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:34:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:34:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
